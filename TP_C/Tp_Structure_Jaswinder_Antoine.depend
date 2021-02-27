@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1605959014 source:c:\users\jas93\onedrive\bureau\jaswindersingh_antoinecathaud\tp_structure_jaswinder_antoine\lecturefichier.c
+	"film.h"
+
+1605959134 c:\users\jas93\onedrive\bureau\jaswindersingh_antoinecathaud\tp_structure_jaswinder_antoine\film.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1605959326 source:c:\users\jas93\onedrive\bureau\jaswindersingh_antoinecathaud\tp_structure_jaswinder_antoine\main.c
+	"film.h"
+	"prez.h"
+
+1605959057 c:\users\jas93\onedrive\bureau\jaswindersingh_antoinecathaud\tp_structure_jaswinder_antoine\prez.h
+	<stdio.h>
+	<stdlib.h>
+
+1605959013 source:c:\users\jas93\onedrive\bureau\jaswindersingh_antoinecathaud\tp_structure_jaswinder_antoine\prez.c
+	"prez.h"
+
